@@ -67,13 +67,13 @@ export default function UserList() {
                 </Td>
                 <Td>
                   <Box>
-                    <Text fontWeight="bold">Marilia Messias</Text>
+                    <Text fontWeight="bold">User Name</Text>
                     <Text fontSize="small" color="gray.300">
-                      marilia_messias@outlook.com
+                      email@email.com
                     </Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>04 de março, 2021</Td>}
+                {isWideVersion && <Td>12 de Janeiro, 1980</Td>}
                 <Td>
                   <Button
                     as="a"
@@ -92,13 +92,13 @@ export default function UserList() {
                 </Td>
                 <Td>
                   <Box>
-                    <Text fontWeight="bold">Marilia Messias</Text>
+                    <Text fontWeight="bold">User Name</Text>
                     <Text fontSize="small" color="gray.300">
-                      marilia_messias@outlook.com
+                      email@email.com
                     </Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>04 de março, 2021</Td>}
+                {isWideVersion && <Td>04 de abril, 2000</Td>}
                 <Td>
                   <Button
                     as="a"
@@ -118,13 +118,13 @@ export default function UserList() {
                 </Td>
                 <Td>
                   <Box>
-                    <Text fontWeight="bold">Marilia Messias</Text>
+                    <Text fontWeight="bold">User Names</Text>
                     <Text fontSize="small" color="gray.300">
-                      marilia_messias@outlook.com
+                        email@email.com
                     </Text>
                   </Box>
                 </Td>
-                {isWideVersion && <Td>04 de março, 2021</Td>}
+                {isWideVersion && <Td>11 de fevereiro, 2021</Td>}
                 <Td>
                   <Button
                     as="a"
